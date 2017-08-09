@@ -1,4 +1,16 @@
 {
-  "name": "",
-  "version": ""
+  "name": "rex_o_bots",
+  "version": "1.0.0",
+  "description": "the rex o bots bot",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "nodemon": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "console.log('it works!');"
+  },
+  "author": "RexOfCraft",
+  "license": "ISC"
 }
