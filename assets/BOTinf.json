@@ -1,10 +1,12 @@
 {
     "infos": {
         "token": "MzQwODk1MTE3MDg5MTc3NjEw.DF9sXg.QjdDk3B605LG0rzOcQIjp4Vk4c0",
-        "prefix": "°",
+        "defaultprefix": "°",
         "version": "0.63-6",
         "InviteLink": "https://discordapp.com/oauth2/authorize?client_id=340895117089177610&scope=bot&permissions=2146958591",
         "owner": "Rex_P",
+        "log": "nothing changed!",
+        "loggingfile": "./assets/log.json",
         "commands": [
             "help",
             "delete"
@@ -12,52 +14,5 @@
     },
     "guilds": {},
     "users": {},
-    "logs": {},
-    "crap": {
-        "owner": {
-            "guild": {
-                "members": {},
-                "channels": {},
-                "roles": {},
-                "presences": {},
-                "available": true,
-                "id": "340168395058184202",
-                "name": "S: G Public",
-                "icon": null,
-                "splash": null,
-                "region": "eu-central",
-                "memberCount": 6,
-                "large": false,
-                "features": [],
-                "applicationID": null,
-                "afkTimeout": 300,
-                "afkChannelID": null,
-                "verificationLevel": 0,
-                "explicitContentFilter": 0,
-                "joinedTimestamp": 1501444794233,
-                "ownerID": "137594857777659904",
-                "_rawVoiceStates": {},
-                "emojis": {}
-            },
-            "user": {
-                "id": "137594857777659904",
-                "username": "Rex_P",
-                "discriminator": "7363",
-                "avatar": "c42af91a82378f75b46ab45e52c74fa2",
-                "bot": false,
-                "lastMessageID": null,
-                "lastMessage": null
-            },
-            "_roles": [
-                "341496058288930827"
-            ],
-            "serverDeaf": false,
-            "serverMute": false,
-            "speaking": false,
-            "nickname": null,
-            "joinedTimestamp": 1501172865407,
-            "lastMessageID": null,
-            "lastMessage": null
-        }
-    }
+    "logs": {}
 }
