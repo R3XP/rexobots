@@ -15,7 +15,6 @@ bot.infos = bot.infs.infos
 bot.Logintoken = bot.infos.token
 bot.prefix = bot.infos.prefix
 bot.version = bot.infos.version
-bot.owner = bot.infos.owner
 bot.ALang = "";
 console.log('Version:', bot.version)
 
@@ -33,9 +32,6 @@ bot.login(bot.Logintoken)
 
 bot.on('ready', () => {
     console.log("I'M ready now, master")
-    // let search = bot.guilds.get("340168395058184202").members.get("137594857777659904")
-    // bot.infs.crap.owner = search
-    // bot.logit()
 
     var testuser = bot.guilds.get("340168395058184202").members.get("137594857777659904")
 
@@ -58,18 +54,16 @@ bot.on('message', message => {
     let args = message.content.split(" ")
     let cmd = args[0].toLowerCase()
 
-
+    let MAuthorName = message.author.name
+    let MUserinfo = bot.infs.users[MAuthorName]
 
     /*Wenn true, dann ist der Kanal in der die Nachricht gesendet wurde ein Gilden Text kanal*/
     if(message.channel.type == "text") {
 
-        let IIIIIIIIIIIIIIIIIIIIIIIII = message.guild.id
-        let guildinf = bot.infs.guilds[IIIIIIIIIIIIIIIIIIIIIIIII]
-        let MAuthorName = message.author.name
-        let MUserinfo = bot.infs.users[MAuthorName]
+        let guildinf = bot.infs.guilds[message.guild.id]
         let MGuildId = message.guild.id
 
-
+        console.log(MUserinfo);
 
         //Fügt die neue Guilde zur Liste hinzu, wenn sie noch nicht vorhanden ist.
         if(!message.author.bot) {
@@ -136,6 +130,8 @@ bot.on('message', message => {
                 
                 bot.logit()
             }
+
+
         }
         bot.infs = require(bot.infopath)
 
@@ -159,21 +155,18 @@ bot.on('message', message => {
 
 
 
+    if(!message.author.bot && !MUserinfo) {
+
+        console.log('got no infos about: ' +message.author.username)
+
+    }
+
 
 
     bot.ALang = "";
 })
 
 
-try{
-    testuser.on('message', message =>{
-
-
-
-    });
-} catch(() => {
-    console.log('BLUB!')
-})
 
 
 
