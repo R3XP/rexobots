@@ -1,0 +1,96 @@
+{
+    "7": {
+        "11.7": [
+            "[22:1-17] Getting and noting infos about user: lxca",
+            "---------------------------------------------------------"
+        ]
+    },
+    "DMs": {
+        "Rex_P": {
+            "11.7": [
+                "{[21:53-20] Rex_P in undefined}: 55"
+            ],
+            "12.7": [
+                "{[0:15-31] Rex_P in undefined}: °help"
+            ]
+        },
+        "Masterofte": {
+            "11.7": []
+        },
+        "Rex o' Bot": {
+            "11.7": [
+                "{[21:54-36] Rex o' Bot in undefined}: Hello <@295994202347667458> thans for using me!\nPlease tell me, for wich command you need help: \n``help: help [command]; \ndelete: delete {Z}; \nconf: conf lang [ger/eng]; conf active channels [channelname]; \n``",
+                "{[21:56-51] Rex o' Bot in undefined}: Die Sprache wurde zu ``Deutsch`` geändert!",
+                "{[22:1-19] Rex o' Bot in undefined}: I've just made an info sheet about you, to collect your informations!\nIf you want to change you language, please use the following Command: ``°konf language [eng/ger]`` \nfor further information, use the ``°help`` command! \n_(keep in mind, that this only works in our dm channel!)_"
+            ],
+            "12.7": [
+                "{[0:15-32] Rex o' Bot in undefined}: Hallo <@137594857777659904> und danke, dass du mich benutzt! Falls du mich zu **deinem** Server hinzufügen willst, nutze einfach folgenden link: https://discordapp.com/oauth2/authorize?client_id=340895117089177610&scope=bot&permissions=2146958591\nBitte gib den command an, für den du Hilfe haben möchtest: \n``help: help [command]; \ndelete: delete {Z}; \nconf: conf lang [ger/eng]; conf active channels [channelname]; \n``"
+            ]
+        }
+    },
+    "S: G Public": {
+        "11.7": [
+            "{[21:50-13] Rex_P in admin-talk}: 2",
+            "{[21:53-28] Rex_P in admin-talk}: blub?",
+            "{[21:53-37] Rex_P in talk}: DIGGAAAAH O.O",
+            "{[21:54-8] Rex_P in talk}: ES GEHT!! 😄",
+            "{[21:54-18] Rex_P in talk}: du kannst jetzt spaß mit dem bot haben ;P",
+            "{[21:54-26] Masterofte in talk}: geht klar",
+            "{[21:54-40] Rex_P in talk}: ahaha xD",
+            "{[21:54-43] Rex_P in talk}: Das ist so geil!",
+            "{[21:54-53] Masterofte in talk}: was soll ich schreiben?",
+            "{[22:1-17] lxca in talk}: <@137594857777659904>",
+            "{[22:1-19] lxca in talk}: ?",
+            "{[22:1-27] Rex_P in talk}: <@287275771356119040>",
+            "{[22:1-37] lxca in talk}: Kannst einfach mal reden?",
+            "{[22:1-38] lxca in talk}: :d",
+            "{[22:1-43] Rex_P in talk}: nö",
+            "{[22:1-46] lxca in talk}: waaas?",
+            "{[22:1-48] Rex_P in talk}: spile jetzt lol",
+            "{[22:1-56] lxca in talk}: aber",
+            "{[22:1-57] lxca in talk}: aber",
+            "{[22:1-59] lxca in talk}: 😦"
+        ],
+        "12.7": [
+            "{[0:21-59] Rex_P in talk}: Okay, ich muss den bot nochmal neu registrieren",
+            "{[0:22-0] Rex o' Bot in bot-channel}: Hello @everyone! I'm the ``Rex o' Bots`` bot and I'm still Wip by my wonderful coder undefined! \nThis Channel was created by me, and is meant to show you the upgrade / patch nodes!",
+            "{[0:22-1] Rex o' Bot in bot-channel}: My version is: 0.64-0.",
+            "{[0:22-1] Rex o' Bot in bot-channel}: You can configure the language by typing ``°conf lang [ger/eng]`` in any channel!",
+            "{[0:22-2] Rex o' Bot in bot-channel}: For more information, or ifyou want to have me on **your** server too, just type ``°help`` in dm.",
+            "{[0:22-7] Masterofte in talk}: k",
+            "{[0:22-24] Rex_P in talk}: ggf. noch ein paar mal heute o.o'",
+            "{[0:22-34] Masterofte in talk}: klar",
+            "{[0:23-18] Rex_P in admin-talk}: °delete 20",
+            "{[0:23-30] Rex_P in admin-talk}: °delete 4",
+            "{[0:23-58] Rex_P in admin-talk}: 5",
+            "{[0:23-59] Rex o' Bot in bot-channel}: Hello @everyone! I'm the ``Rex o' Bots`` bot and I'm still Wip by my wonderful coder undefined! \nThis Channel was created by me, and is meant to show you the upgrade / patch nodes!",
+            "{[0:23-59] Rex o' Bot in bot-channel}: My version is: 0.64-0.",
+            "{[0:24-0] Rex o' Bot in bot-channel}: You can configure the language by typing ``°conf lang [ger/eng]`` in any channel!",
+            "{[0:24-0] Rex o' Bot in bot-channel}: For more information, or ifyou want to have me on **your** server too, just type ``°help`` in dm.",
+            "{[0:24-47] Rex_P in admin-talk}: °delete",
+            "{[0:24-48] Rex o' Bot in bot-channel}: Hello @everyone! I'm the ``Rex o' Bots`` bot and I'm still Wip by my wonderful coder undefined! \nThis Channel was created by me, and is meant to show you the upgrade / patch nodes!",
+            "{[0:24-49] Rex o' Bot in bot-channel}: My version is: 0.64-0.",
+            "{[0:24-49] Rex o' Bot in bot-channel}: You can configure the language by typing ``°conf lang [ger/eng]`` in any channel!",
+            "{[0:24-50] Rex o' Bot in bot-channel}: For more information, or ifyou want to have me on **your** server too, just type ``°help`` in dm."
+        ],
+        "21.7": [
+            "{[0:5-53] Rex_P in admin-talk}: 0",
+            "{[13:4-47] Rex_P in admin-talk}: °delete",
+            "{[13:4-50] Rex_P in admin-talk}: 7",
+            "{[13:4-50] Rex_P in admin-talk}: 6",
+            "{[13:4-50] Rex_P in admin-talk}: 44",
+            "{[13:4-50] Rex_P in admin-talk}: 3",
+            "{[13:4-51] Rex_P in admin-talk}: 3",
+            "{[13:4-51] Rex_P in admin-talk}: 6",
+            "{[13:4-51] Rex_P in admin-talk}: 3",
+            "{[13:4-51] Rex_P in admin-talk}: 3",
+            "{[13:4-53] Rex_P in admin-talk}: 3",
+            "{[13:4-57] Rex_P in admin-talk}: °delete 7",
+            "{[13:5-0] Rex_P in admin-talk}: °delete 2",
+            "{[13:7-44] Rex_P in admin-talk}: ,",
+            "{[13:8-14] Rex_P in admin-talk}: °delete",
+            "{[15:18-1] Rex_P in admin-talk}: gotcha",
+            "{[16:41-40] Rex_P in news}: @everyone  Dieser Server besteht aus den folgenden Gründen :\n\n- News: Hier könnt ihr alles neue aus dem Clan oder aus eurem privatleben mit euren freunden bzw mit dem clan teilen\n\n- Content: Ihr macht kontent - Kunst, Videos, wollt andere kreativenSachen teilen? Geht in den <#346002562937257985> Kanal und teilt eure letzten Kunstwerke\n\n- Freunde: Ihr habt coole Freunde oder wollt einen Discord server für clan und Freunde haben? Dieser Discord ist der perfekte platz, um eure Freunde mit dem clan bekannt zu machen und um neue Freunde zu finden! Ihrseid herzlich dazu eingeladen, neue Freunde mit dem oben stehenden link einzuladen!\n\n- Spaß: Auf dem server dürft ihr unabhängig vonden normalen Clanregeln spaß mit Leuten, Bildern und Bots haben!"
+        ]
+    }
+}

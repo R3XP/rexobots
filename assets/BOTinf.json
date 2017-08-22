@@ -2,17 +2,76 @@
     "infos": {
         "token": "MzQwODk1MTE3MDg5MTc3NjEw.DF9sXg.QjdDk3B605LG0rzOcQIjp4Vk4c0",
         "defaultprefix": "°",
-        "version": "0.63-6",
+        "version": "0.64-0",
         "InviteLink": "https://discordapp.com/oauth2/authorize?client_id=340895117089177610&scope=bot&permissions=2146958591",
         "owner": "Rex_P",
         "log": "nothing changed!",
         "loggingfile": "./assets/log.json",
-        "commands": [
-            "help",
-            "delete"
-        ]
+        "commands": {
+            "help": [
+                "help",
+                "help [command]"
+            ],
+            "delete": [
+                "delete",
+                "delete {Z}"
+            ],
+            "conf": [
+                "conf",
+                "conf lang [ger/eng]",
+                "conf active channels [channelname]"
+            ]
+        }
     },
-    "guilds": {},
-    "users": {},
-    "logs": {}
+    "guilds": {
+        "340168395058184202": {
+            "name": "S: G Public",
+            "id": "340168395058184202",
+            "konfig": {
+                "language": "english",
+                "version": "0.64-0"
+            }
+        }
+    },
+    "users": {
+        "137594857777659904": {
+            "name": "Rex_P",
+            "id": "137594857777659904",
+            "fullname": "Rex_P#7363",
+            "helpblocked": false,
+            "authorized": true,
+            "konfig": {
+                "language": "ger"
+            },
+            "infos": {
+                "user": "default"
+            }
+        },
+        "295994202347667458": {
+            "name": "Masterofte",
+            "id": "295994202347667458",
+            "fullname": "Masterofte#3003",
+            "helpblocked": false,
+            "authorized": false,
+            "konfig": {
+                "language": "ger"
+            },
+            "infos": {
+                "user": "default"
+            }
+        },
+        "287275771356119040": {
+            "name": "lxca",
+            "id": "287275771356119040",
+            "fullname": "lxca#3655",
+            "helpblocked": false,
+            "authorized": false,
+            "konfig": {
+                "language": "eng"
+            },
+            "infos": {
+                "user": "default"
+            }
+        }
+    }
 }

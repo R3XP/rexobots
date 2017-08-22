@@ -1,3 +1,22 @@
 {
-    
+    "7": {
+        "11.7": [
+            "[20:25-47] logging Information about new guild: S: G Public",
+            "---------------------------------------------------------",
+            "[20:26-16] Getting and noting infos about user: Masterofte",
+            "---------------------------------------------------------",
+            "[20:26-16] Succesfully got information about Masterofte",
+            "---------------------------------------------------------",
+            "[22:1-17] Succesfully got information about lxca",
+            "---------------------------------------------------------"
+        ],
+        "12.7": [
+            "[0:21-59] logging Information about new guild: S: G Public",
+            "---------------------------------------------------------",
+            "[0:23-58] logging Information about new guild: S: G Public",
+            "---------------------------------------------------------",
+            "[0:24-47] logging Information about new guild: S: G Public",
+            "---------------------------------------------------------"
+        ]
+    }
 }
